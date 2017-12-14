@@ -1,2 +1,2 @@
 # wine-quality
-Wine quality predictor using sklearn (from eltedatascience.com)
+Wine quality predictor using sklearn (from elitedatascience.com)
